@@ -6,7 +6,7 @@ in Department of Computer Science and Technology, Nanjing University.
 For the guide of this programming assignment,
 refer to https://nju-projectn.github.io/ics-pa-gitbook/ics2023/
 
-To initialize, run
+To initialize, run 
 ```bash
 bash init.sh subproject-name
 ```
